@@ -1,0 +1,16 @@
+D:\4-Project\Folder icon changed\Folder icon changed\bin\Release\Folder icon changed.exe.config
+D:\4-Project\Folder icon changed\Folder icon changed\bin\Release\Folder icon changed.exe
+D:\4-Project\Folder icon changed\Folder icon changed\bin\Release\Folder icon changed.pdb
+D:\4-Project\Folder icon changed\Folder icon changed\obj\Release\MainWindow.baml
+D:\4-Project\Folder icon changed\Folder icon changed\obj\Release\Resources\en-US.baml
+D:\4-Project\Folder icon changed\Folder icon changed\obj\Release\Resources\vn-VN.baml
+D:\4-Project\Folder icon changed\Folder icon changed\obj\Release\App.baml
+D:\4-Project\Folder icon changed\Folder icon changed\obj\Release\MainWindow.g.cs
+D:\4-Project\Folder icon changed\Folder icon changed\obj\Release\App.g.cs
+D:\4-Project\Folder icon changed\Folder icon changed\obj\Release\Folder icon changed_MarkupCompile.cache
+D:\4-Project\Folder icon changed\Folder icon changed\obj\Release\Folder icon changed.g.resources
+D:\4-Project\Folder icon changed\Folder icon changed\obj\Release\Folder_icon_changed.Properties.Resources.resources
+D:\4-Project\Folder icon changed\Folder icon changed\obj\Release\Folder icon changed.csproj.GenerateResource.Cache
+D:\4-Project\Folder icon changed\Folder icon changed\obj\Release\Folder icon changed.exe
+D:\4-Project\Folder icon changed\Folder icon changed\obj\Release\Folder icon changed.pdb
+D:\4-Project\Folder icon changed\Folder icon changed\obj\Release\Folder icon changed.csprojResolveAssemblyReference.cache

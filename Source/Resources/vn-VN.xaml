@@ -1,0 +1,16 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <system:String x:Key="Browse_folder">Chọn thư mục</system:String>
+    <system:String x:Key="Browse_icon">Chọn icon</system:String>
+    <system:String x:Key="Change">Thay</system:String>
+    <system:String x:Key="Language">Ngôn ngữ</system:String>
+    <system:String x:Key="English">Tiếng anh</system:String>
+    <system:String x:Key="Vietnamese">Tiếng việt</system:String>
+    <system:String x:Key="Tool">Công cụ</system:String>
+    <system:String x:Key="About">Về tác giả</system:String>
+    <system:String x:Key="Update">Kiểm tra cập nhật</system:String>
+    <system:String x:Key="HowToUse">Hướng dẫn sử dụng</system:String>
+    <system:String x:Key="ChangeIfHas">Chỉ thay icon thư mục chưa thay</system:String>
+    <system:String x:Key="ChangeIfHasTip">(Khuyên dùng)Thư mục đã từng được thay icon sẽ không được thay nữa</system:String>
+</ResourceDictionary>
